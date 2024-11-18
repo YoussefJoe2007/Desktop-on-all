@@ -8,6 +8,7 @@ namespace Desktop_on_all
 {
     public class User
     {
+        //User
         public int UserId { get; set; }
         public string Name { get; set; }
         public string Password { get; set; }
